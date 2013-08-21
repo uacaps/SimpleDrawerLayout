@@ -44,6 +44,7 @@ public class MainActivity extends FragmentActivity implements OnItemClickListene
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		InitDrawer();
+		// Sets the fragment Item to the first fragment if the app is first opened
 		if (savedInstanceState == null) {
 			selectItem(0);
 		}
