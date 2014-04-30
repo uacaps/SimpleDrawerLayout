@@ -5,11 +5,9 @@
  * Created by Aaron Fleshner on 8/21/13. 
  */
 
-package edu.ua.caps.flesh.simpledrawerlayoutdemo;
+package edu.ua.caps.myapplication3.app;
 
-import com.ua.flesh.simpledrawerlayoutdemo.R;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.net.Uri;
@@ -20,7 +18,6 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
-import android.support.v4.widget.DrawerLayout.DrawerListener;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -78,7 +75,7 @@ public class MainActivity extends FragmentActivity implements OnItemClickListene
 	// off-screen as the drawer is opened, indicating that in the open state
 	// the drawer will move off-screen when pressed and in the closed state
 	// the drawer will move on-screen when pressed.
-	private DrawerListener setUpDrawerToggle() {
+	private DrawerLayout.DrawerListener setUpDrawerToggle() {
 		mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer, R.string.drawer_open, R.string.drawer_close) {
 			@Override
 			public void onDrawerClosed(View view) {

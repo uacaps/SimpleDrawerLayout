@@ -5,9 +5,7 @@
  * Created by Aaron Fleshner on 8/21/13. 
  */
 
-package edu.ua.caps.flesh.simpledrawerlayoutdemo;
-
-import com.ua.flesh.simpledrawerlayoutdemo.R;
+package edu.ua.caps.myapplication3.app;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

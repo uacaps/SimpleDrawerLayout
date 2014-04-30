@@ -1,0 +1,9 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) 2012 The Board of Trustees of The University of Alabama&#10;All rights reserved.&#10;&#10;Redistribution and use in source and binary forms, with or without&#10;modification, are permitted provided that the following conditions&#10;are met:&#10;&#10;1. Redistributions of source code must retain the above copyright&#10;notice, this list of conditions and the following disclaimer.&#10;2. Redistributions in binary form must reproduce the above copyright&#10;notice, this list of conditions and the following disclaimer in the&#10;documentation and/or other materials provided with the distribution.&#10;3. Neither the name of the University nor the names of the contributors&#10;may be used to endorse or promote products derived from this software&#10;without specific prior written permission.&#10;&#10;THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS&#10;&quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT&#10;LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS&#10;FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL&#10;THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,&#10;INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES&#10;(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR&#10;SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)&#10;HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,&#10;STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)&#10;ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED&#10;OF THE POSSIBILITY OF SUCH DAMAGE." />
+    <option name="keyword" value="Copyright" />
+    <option name="allowReplaceKeyword" value="" />
+    <option name="myName" value="CAPS" />
+    <option name="myLocal" value="true" />
+  </copyright>
+</component>
